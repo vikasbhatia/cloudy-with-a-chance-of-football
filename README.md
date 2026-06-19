@@ -306,7 +306,7 @@ If you discover a team name mismatch (a match with a known score that isn't appe
 
 ## Authors
 
-* **Neel Dhanesha** – concept and vision – [neeldhanesha.com](https://neeldhanesha.com)
+* **Neel Dhanesha** – concept and development – [neeldhanesha.com](https://neeldhanesha.com)
 * **Vikas Bhatia** – development
 
 [<sub><sup>Back to top</sup></sub>](#world-cup-2026-heat-bracket)
